@@ -154,6 +154,7 @@ class Scoreboard(Turtle):
 ## 👨‍💻 Author
 
 Developed by [psyccho00](https://github.com/psyccho00)
+
 If you enjoyed this or found it helpful, give the repo a ⭐!
 
 ---
