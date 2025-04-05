@@ -2,6 +2,8 @@
 
 Welcome to the **Snake Game**, a Python-based recreation of the classic arcade game. Built using the `turtle` graphics module, this game is an excellent demonstration of object-oriented programming and basic game logic.
 
+
+![](https://github.com/psyccho00/snake-game/blob/main/snake_game.png)
 ---
 
 ## 📂 Repository Structure
