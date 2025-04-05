@@ -145,7 +145,7 @@ class Scoreboard(Turtle):
 |                            |
 |     🍽️ Blue Food           |
 |                            |
-|  Score: 3                 |
+|  Score: 3                  |
 +----------------------------+
 ```
 
